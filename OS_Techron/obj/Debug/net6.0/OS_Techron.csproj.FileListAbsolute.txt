@@ -1,0 +1,12 @@
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\bin\Debug\net6.0\OS_Techron.deps.json
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\bin\Debug\net6.0\OS_Techron.dll
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\bin\Debug\net6.0\OS_Techron.pdb
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.csproj.AssemblyReference.cache
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.AssemblyInfoInputs.cache
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.AssemblyInfo.cs
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.csproj.CoreCompileInputs.cache
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.dll
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\refint\OS_Techron.dll
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\OS_Techron.pdb
+C:\Users\TEDD\source\repos\OS_Techron\OS_Techron\obj\Debug\net6.0\ref\OS_Techron.dll
